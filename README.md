@@ -5,7 +5,7 @@ Submission for SE HW4
 ![Shell](https://img.shields.io/badge/shell-bash-green)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
+[![Test Shell Scripts](https://github.com/systems-org/system-4/actions/workflows/main.yml/badge.svg)](https://github.com/systems-org/system-4/actions/workflows/main.yml)
 
 
 ## Output
