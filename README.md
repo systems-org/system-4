@@ -3,6 +3,7 @@ Submission for SE HW4
 
 ![MIT](https://img.shields.io/badge/license-MIT-blue)
 ![Shell](https://img.shields.io/badge/shell-bash-green)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ## Output
