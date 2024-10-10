@@ -1,0 +1,35 @@
+name: Test Shell Scripts
+
+# This specifies when the workflow should run
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test-scripts:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Checkout the latest version of the code in the repo
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Give execute permissions to all your shell scripts
+      - name: Make shell scripts executable
+        run: chmod +x task1.sh task2.sh task3.sh
+
+      # Run task1.sh
+      - name: Run task1.sh
+        run: ./task1.sh
+
+      # Run task2.sh
+      - name: Run task2.sh
+        run: ./task2.sh
+
+      # Run task3.sh
+      - name: Run task3.sh
+        run: ./task3.sh
