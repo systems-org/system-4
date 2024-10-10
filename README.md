@@ -2,6 +2,8 @@
 Submission for SE HW4
 
 ![MIT](https://img.shields.io/badge/license-MIT-blue)
+![Shell](https://img.shields.io/badge/shell-bash-green)
+
 
 ## Output
 Task 1 (task1.sh)
