@@ -14,6 +14,8 @@ Task 1 (task1.sh)
 Task 2  (task2.sh)
 ![WhatsApp Image 2024-10-10 at 9 28 17 AM](https://github.com/user-attachments/assets/73957125-07ec-4586-9c40-1c6331c78a0a)
 Task 3 (task3.sh)
+![image](https://github.com/user-attachments/assets/ce3402fd-4714-4744-b467-cc616bb76c0d)
+
 ![WhatsApp Image 2024-10-11 at 1 21 51 AM](https://github.com/user-attachments/assets/120da16f-9470-4a65-9e5d-971ee3debd2b)
 ![WhatsApp Image 2024-10-11 at 1 24 57 AM](https://github.com/user-attachments/assets/3e1fed8d-643f-4634-8bd5-a89dc76ac5ce)
 
